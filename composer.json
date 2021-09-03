@@ -1,0 +1,10 @@
+{
+    "require": {
+        "sociallydev/spaces-api": "dev-master",
+        "mailgun/mailgun-php": "^3.5",
+        "kriswallsmith/buzz": "^1.2",
+        "nyholm/psr7": "^1.4",
+        "phpmailer/phpmailer": "^6.5",
+        "paragraph1/php-fcm": "^0.7.0"
+    }
+}
